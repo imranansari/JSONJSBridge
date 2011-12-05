@@ -1,0 +1,248 @@
+// !$*UTF8*$!
+{
+	0A8086BD12316A9A007742CC /* NSDataAddition.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 1560}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 609}";
+		};
+	};
+	1D3623240D0F684500981E51 /* JSBridgeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 361}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JSBridgeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1196}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{45, 668}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* JSBridge */ = {
+		activeExec = 0;
+		executables = (
+			FEE6BC45123427070008B62D /* JSBridge */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* JSBridgeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 361}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 298}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* JSBridgeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1482}}";
+			sepNavSelRange = "{1228, 0}";
+			sepNavVisRange = "{882, 892}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FEE6BC45123427070008B62D /* JSBridge */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JSBridge */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* JSBridge */,
+		);
+		codeSenseManager = FEE6BC56123427270008B62D /* Code sense */;
+		executables = (
+			FEE6BC45123427070008B62D /* JSBridge */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					696,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305522974;
+			PBXWorkspaceStateSaveDate = 305522974;
+		};
+		perUserProjectItems = {
+			FE36E2161235F34800C1D826 /* PBXTextBookmark */ = FE36E2161235F34800C1D826 /* PBXTextBookmark */;
+			FE36E2171235F34800C1D826 /* PBXTextBookmark */ = FE36E2171235F34800C1D826 /* PBXTextBookmark */;
+			FE36E2191235F34800C1D826 /* PBXTextBookmark */ = FE36E2191235F34800C1D826 /* PBXTextBookmark */;
+			FE36E21A1235F34800C1D826 /* PBXTextBookmark */ = FE36E21A1235F34800C1D826 /* PBXTextBookmark */;
+			FE36E21B1235F34800C1D826 /* PBXTextBookmark */ = FE36E21B1235F34800C1D826 /* PBXTextBookmark */;
+			FE36E21C1235F34800C1D826 /* PBXTextBookmark */ = FE36E21C1235F34800C1D826 /* PBXTextBookmark */;
+			FE36E21D1235F34800C1D826 /* PBXTextBookmark */ = FE36E21D1235F34800C1D826 /* PBXTextBookmark */;
+			FE36E21E1235F34800C1D826 /* PBXTextBookmark */ = FE36E21E1235F34800C1D826 /* PBXTextBookmark */;
+			FE36E21F1235F34800C1D826 /* PBXTextBookmark */ = FE36E21F1235F34800C1D826 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FEE6BC55123427270008B62D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FE36E1DD1235EAB500C1D826 /* JSBridgeWebView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 361}}";
+			sepNavSelRange = "{216, 0}";
+			sepNavVisRange = "{0, 497}";
+		};
+	};
+	FE36E1DE1235EAB500C1D826 /* JSBridgeWebView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 364}}";
+			sepNavSelRange = "{349, 0}";
+			sepNavVisRange = "{0, 412}";
+		};
+	};
+	FE36E2161235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0A8086BD12316A9A007742CC /* NSDataAddition.m */;
+		name = "NSDataAddition.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	FE36E2171235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE36E2181235F34800C1D826 /* UIWebView.h */;
+		name = "UIWebView.h: 26";
+		rLen = 85;
+		rLoc = 592;
+		rType = 0;
+		vrLen = 894;
+		vrLoc = 254;
+	};
+	FE36E2181235F34800C1D826 /* UIWebView.h */ = {
+		isa = PBXFileReference;
+		name = UIWebView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h;
+		sourceTree = "<absolute>";
+	};
+	FE36E2191235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JSBridgeViewController.h */;
+		name = "JSBridgeViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 0;
+	};
+	FE36E21A1235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JSBridgeAppDelegate.h */;
+		name = "JSBridgeAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	FE36E21B1235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JSBridgeViewController.m */;
+		name = "JSBridgeViewController.m: 51";
+		rLen = 0;
+		rLoc = 1228;
+		rType = 0;
+		vrLen = 892;
+		vrLoc = 882;
+	};
+	FE36E21C1235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JSBridgeAppDelegate.m */;
+		name = "JSBridgeAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 45;
+	};
+	FE36E21D1235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE36E1DE1235EAB500C1D826 /* JSBridgeWebView.m */;
+		name = "JSBridgeWebView.m: 21";
+		rLen = 0;
+		rLoc = 349;
+		rType = 0;
+		vrLen = 412;
+		vrLoc = 0;
+	};
+	FE36E21E1235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE36E1DD1235EAB500C1D826 /* JSBridgeWebView.h */;
+		name = "JSBridgeWebView.h: 17";
+		rLen = 0;
+		rLoc = 452;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	FE36E21F1235F34800C1D826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE36E1DD1235EAB500C1D826 /* JSBridgeWebView.h */;
+		name = "JSBridgeWebView.h: 12";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 0;
+	};
+	FEE6BC45123427070008B62D /* JSBridge */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JSBridge;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FEE6BC55123427270008B62D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FEE6BC56123427270008B62D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Choose your Mask</TITLE>
+<STYLE TYPE="text/css">
+<!-- TD{font-family: Tahoma;
+font-size: 13pt;}
+--->
+</STYLE> 
+<META http-equiv="Pragma" content="no-cache">
+</script>
+<style fprolloverstyle>A:hover {color: #000000; text-decoration: none; background-color: #9477c7}
+</style>
+</HEAD>
+<STYLE type="text/css">
+<!--
+body {
+scrollbar-face-color:#127a12;
+scrollbar-highlight-color:#bcfbbb;
+scrollbar-3dlight-color:#bcfbbb;
+scrollbar-darkshadow-color:#127a12;
+scrollbar-shadow-color:#bcfbbb;
+scrollbar-arrow-color:#000000;
+scrollbar-track-color:#127a12;
+}
+-->
+</STYLE>
+
+<body>
+<noscript>Your browser does not support script</noscript>
+<body background="" bgcolor="#EEEE88" text="#000000" link="#000000" 
+vlink="#000000" alink="#bcfbbb">
+</STYLE>
+
+<script src="./JSBridge.js"></script>
+
+<script type="text/javascript">
+
+function processPic(picId)
+{
+	var obj = new JSBridgeObj();
+	obj.addObject("pic", document.getElementById('pic' + picId));
+	obj.addObject("task", "process_pic");
+	
+	obj.sendBridgeObject();
+}
+
+</script> 
+
+<table align="center" cellspacing="4" cellpadding="2" border="2" bordercolor="#000000" frame="box" width="95%" height="95%">
+<BR>
+
+<tr>
+<td colspan="4" align="center"><font size="5" color="#880000"><strong>***<u> Select Your Mask </u>  ***</font><p><font size="4" ><strong>All masks on this page were obtained at <a href="http://psp-pals.com/">http://psp-pals.com/</a><br>
+<br>You may select a mask by clicking on it.</td></strong></tr></td></strong></tr>
+
+</p>
+
+<tr>
+
+<td ALIGN="center" VALIGN="top"><a href="javascript:processPic(0)"><IMG id="pic0" BORDER="1" src="pic0.jpg" width="125" height="125" border="0"></a>
+</td>
+
+
+<td ALIGN="center" VALIGN="top"><a href="javascript:processPic(1)"><IMG id="pic1" BORDER="1" src="pic1.jpg" width="125" height="125" border="0"></a>
+</td></tr>
+
+<td ALIGN="center" VALIGN="top"><a href="javascript:processPic(2)"><IMG id="pic2" BORDER="1" src="pic2.jpg" width="125" height="125" border="0"></a>
+</td>
+
+<td ALIGN="center" VALIGN="top"><a href="javascript:processPic(3)"><IMG id="pic3" BORDER="1" src="pic3.jpg" width="125" height="125" border="0"></a>
+</td></tr>
+
+<tr>
+<td ALIGN="center" VALIGN="top"><a href="javascript:processPic(4)"><IMG id="pic4" BORDER="1" src="pic4.jpg" width="125" height="125" border="0"></a>
+</td>
+
+<td ALIGN="center" VALIGN="top"><a href="javascript:processPic(5)"><IMG id="pic5" BORDER="1" src="pic5.jpg" width="125" height="125" border="0"></a>
+</td></tr>
+
+
+
+</TABLE>
+
+</body>
+</html>
+
